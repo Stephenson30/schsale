@@ -5,71 +5,35 @@
       "contact": {
           "phone":"08135019076",
           "address": "11 brooklyn hood",
-          "email": "john@gmail.com"},
-          "product":{ 
-            "category":
-              { "books":[
+          "email": "john@gmail.com"
+        },
+      "product":{
                   {
-                  "name":"pio",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$40",
-                  "brand": "used"
+                  "name":"Gray's Anatomy for Students",
+                  "description": "Pearson Education, 2019",
+                  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-F7N-uwSCy-Dv9YHPPk6fJhyXK3vY90haMyQnvn1FIAUTAAlS",
+                  "x-image": "https://books.google.com/books/about/Gray_s_Anatomy_for_Students.html?id=PRWSzwEACAAJ&source=kp_cover"
+                  "price": "₦3,000.00 NGN",
+                  "type": "used",
+                  "category" : "book",
                   },
                   {
-                  "name":"anat",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$30",
-                  "brand": "new"
+                  "name": "LG LED Smart TV ",
+                  "description": "43 inch LM6300 Series Full HD HDR Smart LED TV",
+                  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebWwG8KTx6u2tdKCFbEPLBbVln3uN3WI4SCDi4fxn_g&s",
+                  "price": "₦57,000.00 NGN",
+                  "type": "used",
+                  "category" : "electronics",
                   },
                   {
-                  "name":"bch",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$10",
-                  "brand": "used"
+                  "name":"Standing Fan",
+                  "description": "Durable and quality BB Standing fan, perfect for your bedroom.",
+                  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UzFTnx0ssocClEQ8ciX-qiYdTUwTP-nT3q_Z84A&s",
+                  "price": "₦7,000.00 NGN",
+                  "type": "used",
+                  "category" : "electronics",
                   },
-              ],
-            "electronics": [
-                  {
-                  "name":"fan",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$100",
-                  "brand": "new"
-                  },
-                  {
-                  "name":"tv",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$400",
-                  "brand": "new"
-                  },
-                  {
-                  "name":"speaker",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$120",
-                  "brand": "new"
-                  },
-              ],
-            "fornitures": [
-                  {
-                  "name":"table",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$150",
-                  "brand": "new"
-                  },
-                  {
-                  "name":"chair",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$60.50",
-                  "brand": "used"
-                  },
-                  {
-                  "name":"bed",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$600",
-                  "brand": "used"
-                  },
-                ],
-              }
-            }
+      }
     },
     {
       "name": "sam",
@@ -77,71 +41,36 @@
       "contact": {
           "phone":"08135019076",
           "address": "11 brooklyn hood",
-          "email": "john@gmail.com"},
+          "email": "john@gmail.com"
+          },
           "product":{ 
-            "category":
-              { "books":[
                   {
-                  "name":"pio",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$40",
-                  "brand": "used"
+                  "name":"Gray's Anatomy for Students",
+                  "description": "Pearson Education, 2019"
+                  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-F7N-uwSCy-Dv9YHPPk6fJhyXK3vY90haMyQnvn1FIAUTAAlS",
+                  "x-image": "https://books.google.com/books/about/Gray_s_Anatomy_for_Students.html?id=PRWSzwEACAAJ&source=kp_cover"
+                  "price": "₦12,500",
+                  "type": "used",
+                  "category" : "book",
                   },
                   {
-                  "name":"anat",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$30",
-                  "brand": "new"
+                  "name":"Human Anatomy & Physiology",
+                  "description": "Pearson Education, 2019",
+                  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkGHkp9bU0HiB0jcidNLewQnjyuH6CWynbLkdy8QobCYfmR9VK",
+                  "x-image": "https://books.google.com.ng/books/about/Human_Anatomy_Physiology.html?id=6MrdswEACAAJ&source=kp_cover"
+                  "price": "₦21,700",
+                  "type": "new",
+                  "category" : "book",
                   },
                   {
-                  "name":"bch",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$10",
-                  "brand": "used"
+                  "name": "18 Plus Standing Fan",
+                  "description": "Stand Fan A-1691 Highly efficient blades Silent ",
+                  "image": "https://www-konga-com-res.cloudinary.com/w_400,f_auto,fl_lossy,dpr_3.0,q_auto/media/catalog/product/B/H/179478_1606373385.jpg",
+                  "price": "₦18,500.00 NGN",
+                  "type": "used",
+                  "category" : "electronics",
                   },
-              ],
-            "electronics": [
-                  {
-                  "name":"fan",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$100",
-                  "brand": "new"
-                  },
-                  {
-                  "name":"tv",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$400",
-                  "brand": "new"
-                  },
-                  {
-                  "name":"speaker",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$120",
-                  "brand": "new"
-                  },
-              ],
-            "fornitures": [
-                  {
-                  "name":"table",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$150",
-                  "brand": "new"
-                  },
-                  {
-                  "name":"chair",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$60.50",
-                  "brand": "used"
-                  },
-                  {
-                  "name":"bed",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$600",
-                  "brand": "used"
-                  },
-                ],
-              }
-            }
+                }    
     },
     {
       "name": "mark",
@@ -151,69 +80,32 @@
           "address": "11 brooklyn hood",
           "email": "john@gmail.com"},
           "product":{ 
-            "category":
-              { "books":[
                   {
-                  "name":"pio",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$40",
-                  "brand": "used"
+                  "name":"Gray's Anatomy for Students",
+                  "description": "Pearson Education, 2019".
+                  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-F7N-uwSCy-Dv9YHPPk6fJhyXK3vY90haMyQnvn1FIAUTAAlS",
+                  "x-image": "https://books.google.com/books/about/Gray_s_Anatomy_for_Students.html?id=PRWSzwEACAAJ&source=kp_cover"
+                  "price": "₦11,500",
+                  "type": "used"
+                  "category" : "book"
+                  },
+                 {
+                  "name": "LG LED Smart TV ",
+                  "description": "43 inch LM6300 Series Full HD HDR Smart LED TV",
+                  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebWwG8KTx6u2tdKCFbEPLBbVln3uN3WI4SCDi4fxn_g&s",
+                  "price": "₦57,000.00 NGN",
+                  "type": "used",
+                  "category" : "electronics",
                   },
                   {
-                  "name":"anat",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$30",
-                  "brand": "new"
+                  "name":"Standing Fan",
+                  "description": "Durable and quality BB Standing fan, perfect for your bedroom.",
+                  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UzFTnx0ssocClEQ8ciX-qiYdTUwTP-nT3q_Z84A&s",
+                  "price": "₦7,000.00 NGN",
+                  "type": "used",
+                  "category" : "electronics",
                   },
-                  {
-                  "name":"bch",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$10",
-                  "brand": "used"
-                  },
-              ],
-            "electronics": [
-                  {
-                  "name":"fan",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$100",
-                  "brand": "new"
-                  },
-                  {
-                  "name":"tv",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$400",
-                  "brand": "new"
-                  },
-                  {
-                  "name":"speaker",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$120",
-                  "brand": "new"
-                  },
-              ],
-            "fornitures": [
-                  {
-                  "name":"table",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$150",
-                  "brand": "new"
-                  },
-                  {
-                  "name":"chair",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$60.50",
-                  "brand": "used"
-                  },
-                  {
-                  "name":"bed",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$600",
-                  "brand": "used"
-                  },
-                ],
-              }
-            }
+            }   
     },
     {
       "name": "jane",
@@ -223,69 +115,32 @@
           "address": "11 brooklyn hood",
           "email": "john@gmail.com"},
           "product":{ 
-            "category":
-              { "books":[
                   {
-                  "name":"pio",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$40",
-                  "brand": "used"
+                  "name":"Gray's Anatomy for Students",
+                  "description": "Pearson Education, 2019".
+                  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-F7N-uwSCy-Dv9YHPPk6fJhyXK3vY90haMyQnvn1FIAUTAAlS",
+                  "x-image": "https://books.google.com/books/about/Gray_s_Anatomy_for_Students.html?id=PRWSzwEACAAJ&source=kp_cover"
+                  "price": "₦3,000.00 NGN",
+                  "type": "used"
+                  "category" : "book"
                   },
                   {
-                  "name":"anat",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$30",
-                  "brand": "new"
-                  },
+                  "name": "LG LED Smart TV ",
+                  "description": "43 inch LM6300 Series Full HD HDR Smart LED TV",
+                  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebWwG8KTx6u2tdKCFbEPLBbVln3uN3WI4SCDi4fxn_g&s",
+                  "price": "₦57,000.00 NGN",
+                  "type": "used",
+                  "category" : "electronics",
+                  },                   
                   {
-                  "name":"bch",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$10",
-                  "brand": "used"
+                  "name":"Standing Fan",
+                  "description": "Durable and quality BB Standing fan, perfect for your bedroom.",
+                  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UzFTnx0ssocClEQ8ciX-qiYdTUwTP-nT3q_Z84A&s",
+                  "price": "₦7,000.00 NGN",
+                  "type": "used",
+                  "category" : "electronics",
                   },
-              ],
-            "electronics": [
-                  {
-                  "name":"fan",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$100",
-                  "brand": "new"
-                  },
-                  {
-                  "name":"tv",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$400",
-                  "brand": "new"
-                  },
-                  {
-                  "name":"speaker",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$120",
-                  "brand": "new"
-                  },
-              ],
-            "fornitures": [
-                  {
-                  "name":"table",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$150",
-                  "brand": "new"
-                  },
-                  {
-                  "name":"chair",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$60.50",
-                  "brand": "used"
-                  },
-                  {
-                  "name":"bed",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$600",
-                  "brand": "used"
-                  },
-                ],
-              }
-            }
+            }   
     },
     {
       "name": "ford",
@@ -295,69 +150,31 @@
           "address": "11 brooklyn hood",
           "email": "john@gmail.com"},
           "product":{ 
-            "category":
-              { "books":[
-                  {
-                  "name":"pio",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$40",
-                  "brand": "used"
+                   {
+                  "name": "LG LED Smart TV ",
+                  "description": "43 inch LM6300 Series Full HD HDR Smart LED TV",
+                  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebWwG8KTx6u2tdKCFbEPLBbVln3uN3WI4SCDi4fxn_g&s",
+                  "price": "₦57,000.00 NGN",
+                  "type": "used",
+                  "category" : "electronics",
                   },
                   {
-                  "name":"anat",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$30",
-                  "brand": "new"
+                  "name":"Standing Fan",
+                  "description": "Durable and quality BB Standing fan, perfect for your bedroom.",
+                  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UzFTnx0ssocClEQ8ciX-qiYdTUwTP-nT3q_Z84A&s",
+                  "price": "₦7,000.00 NGN",
+                  "type": "used",
+                  "category" : "electronics",
                   },
                   {
-                  "name":"bch",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$10",
-                  "brand": "used"
+                  "name":"Standing Fan",
+                  "description": "Durable and quality BB Standing fan, perfect for your bedroom.",
+                  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UzFTnx0ssocClEQ8ciX-qiYdTUwTP-nT3q_Z84A&s",
+                  "price": "₦7,000.00 NGN",
+                  "type": "used",
+                  "category" : "electronics",
                   },
-              ],
-            "electronics": [
-                  {
-                  "name":"fan",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$100",
-                  "brand": "new"
-                  },
-                  {
-                  "name":"tv",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$400",
-                  "brand": "new"
-                  },
-                  {
-                  "name":"speaker",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$120",
-                  "brand": "new"
-                  },
-              ],
-            "fornitures": [
-                  {
-                  "name":"table",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$150",
-                  "brand": "new"
-                  },
-                  {
-                  "name":"chair",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$60.50",
-                  "brand": "used"
-                  },
-                  {
-                  "name":"bed",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$600",
-                  "brand": "used"
-                  },
-                ],
-              }
-            }
+                }   
     },
     {
       "name": "elon",
@@ -367,69 +184,32 @@
           "address": "11 brooklyn hood",
           "email": "john@gmail.com"},
           "product":{ 
-            "category":
-              { "books":[
                   {
-                  "name":"pio",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$40",
-                  "brand": "used"
+                  "name":"Standing Fan",
+                  "description": "Durable and quality BB Standing fan, perfect for your bedroom.",
+                  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UzFTnx0ssocClEQ8ciX-qiYdTUwTP-nT3q_Z84A&s",
+                  "price": "₦7,000.00 NGN",
+                  "type": "used",
+                  "category" : "electronics",
                   },
                   {
-                  "name":"anat",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$30",
-                  "brand": "new"
+                  "name":"LG LED Smart TV",
+                  "description": "tech specs for the LG LED Smart TV 43 inch LM6300 Series Full HD HDR ..",
+                  "image": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/39/4447531/1.jpg?8888",
+                  "price": "₦25000.00",
+                  "type": "new",
+                  "category" : "electronics"
                   },
                   {
-                  "name":"bch",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$10",
-                  "brand": "used"
+                  "name":"Human Anatomy & Physiology",
+                  "description": "Pearson Education, 2019",
+                  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkGHkp9bU0HiB0jcidNLewQnjyuH6CWynbLkdy8QobCYfmR9VK",
+                  "x-image": "https://books.google.com.ng/books/about/Human_Anatomy_Physiology.html?id=6MrdswEACAAJ&source=kp_cover"
+                  "price": "₦4000.00",
+                  "type": "new",
+                  "category" : "book",
                   },
-              ],
-            "electronics": [
-                  {
-                  "name":"fan",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$100",
-                  "brand": "new"
-                  },
-                  {
-                  "name":"tv",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$400",
-                  "brand": "new"
-                  },
-                  {
-                  "name":"speaker",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$120",
-                  "brand": "new"
-                  },
-              ],
-            "fornitures": [
-                  {
-                  "name":"table",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$150",
-                  "brand": "new"
-                  },
-                  {
-                  "name":"chair",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$60.50",
-                  "brand": "used"
-                  },
-                  {
-                  "name":"bed",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$600",
-                  "brand": "used"
-                  },
-                ],
-              }
-            }
+                }   
     },
     {
       "name": "soma",
@@ -439,68 +219,31 @@
           "address": "11 brooklyn hood",
           "email": "john@gmail.com"},
           "product":{ 
-            "category":
-              { "books":[
                   {
-                  "name":"pio",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$40",
-                  "brand": "used"
+                  "name":"Gray's Anatomy for Students",
+                  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-F7N-uwSCy-Dv9YHPPk6fJhyXK3vY90haMyQnvn1FIAUTAAlS",
+                  "x-image": "https://books.google.com/books/about/Gray_s_Anatomy_for_Students.html?id=PRWSzwEACAAJ&source=kp_cover"
+                  "price": "₦2,500",
+                  "type": "used"
+                  "category" : "book"
                   },
                   {
-                  "name":"anat",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$30",
-                  "brand": "new"
+                  "name":"LG 1.5Hp Inverter Air Conditioner",
+                  "description": "Advanced heat exchanger, air outlet, compressor, and inverter technology provides the world's highest energy efficiency.",
+                  "image": "https://www-konga-com-res.cloudinary.com/w_700,f_auto,fl_lossy,dpr_1.0,q_auto/media/catalog/product/X/L/198132_1658234580.jpg",
+                  "price": "₦295,000",
+                  "type": "new",
+                  "category" : "electronics"
                   },
-                  {
-                  "name":"bch",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$10",
-                  "brand": "used"
+                     {
+                  "name":"Human Anatomy & Physiology",
+                  "description": "Pearson Education, 2019",
+                  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkGHkp9bU0HiB0jcidNLewQnjyuH6CWynbLkdy8QobCYfmR9VK",
+                  "x-image": "https://books.google.com.ng/books/about/Human_Anatomy_Physiology.html?id=6MrdswEACAAJ&source=kp_cover"
+                  "price": "₦2,500",
+                  "type": "new",
+                  "category" : "book",
                   },
-              ],
-            "electronics": [
-                  {
-                  "name":"fan",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$100",
-                  "brand": "new"
-                  },
-                  {
-                  "name":"tv",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$400",
-                  "brand": "new"
-                  },
-                  {
-                  "name":"speaker",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$120",
-                  "brand": "new"
-                  },
-              ],
-            "fornitures": [
-                  {
-                  "name":"table",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$150",
-                  "brand": "new"
-                  },
-                  {
-                  "name":"chair",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$60.50",
-                  "brand": "used"
-                  },
-                  {
-                  "name":"bed",
-                  "image": "hdgsyhujfkfsbh",
-                  "price": "$600",
-                  "brand": "used"
-                  },
-                ],
-              }
-            }
+            }   
     },
 ]
