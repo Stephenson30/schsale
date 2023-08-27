@@ -11,28 +11,31 @@
         },
       "product":{
                   {
+                  "id": "1",
                   "name":"Gray's Anatomy for Students",
                   "description": "Pearson Education, 2019",
                   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-F7N-uwSCy-Dv9YHPPk6fJhyXK3vY90haMyQnvn1FIAUTAAlS",
                   "x-image": "https://books.google.com/books/about/Gray_s_Anatomy_for_Students.html?id=PRWSzwEACAAJ&source=kp_cover"
                   "price": "₦3,000.00 NGN",
-                  "type": "used",
+                  "condition": "used",
                   "category" : "book",
                   },
                   {
+                  "id": "2",
                   "name": "LG LED Smart TV ",
                   "description": "43 inch LM6300 Series Full HD HDR Smart LED TV",
                   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebWwG8KTx6u2tdKCFbEPLBbVln3uN3WI4SCDi4fxn_g&s",
                   "price": "₦57,000.00 NGN",
-                  "type": "used",
+                  "condition": "used",
                   "category" : "electronics",
                   },
                   {
+                  "id": "3",                      
                   "name":"Standing Fan",
                   "description": "Durable and quality BB Standing fan, perfect for your bedroom.",
                   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UzFTnx0ssocClEQ8ciX-qiYdTUwTP-nT3q_Z84A&s",
                   "price": "₦7,000.00 NGN",
-                  "type": "used",
+                  "condition": "used",
                   "category" : "electronics",
                   },
       }
@@ -49,29 +52,32 @@
           },
           "product":{ 
                   {
+                  "id": "1",
                   "name":"Gray's Anatomy for Students",
                   "description": "Pearson Education, 2019"
                   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-F7N-uwSCy-Dv9YHPPk6fJhyXK3vY90haMyQnvn1FIAUTAAlS",
                   "x-image": "https://books.google.com/books/about/Gray_s_Anatomy_for_Students.html?id=PRWSzwEACAAJ&source=kp_cover"
                   "price": "₦12,500",
-                  "type": "used",
+                  "condition": "used",
                   "category" : "book",
                   },
                   {
+                  "id": "2",
                   "name":"Human Anatomy & Physiology",
                   "description": "Pearson Education, 2019",
                   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkGHkp9bU0HiB0jcidNLewQnjyuH6CWynbLkdy8QobCYfmR9VK",
                   "x-image": "https://books.google.com.ng/books/about/Human_Anatomy_Physiology.html?id=6MrdswEACAAJ&source=kp_cover"
                   "price": "₦21,700",
-                  "type": "new",
+                  "condition": "new",
                   "category" : "book",
                   },
                   {
+                  "id": "3",
                   "name": "18 Plus Standing Fan",
                   "description": "Stand Fan A-1691 Highly efficient blades Silent ",
                   "image": "https://www-konga-com-res.cloudinary.com/w_400,f_auto,fl_lossy,dpr_3.0,q_auto/media/catalog/product/B/H/179478_1606373385.jpg",
                   "price": "₦18,500.00 NGN",
-                  "type": "used",
+                  "condition": "used",
                   "category" : "electronics",
                   },
                 }    
@@ -87,28 +93,31 @@
           "email": "john@gmail.com"},
           "product":{ 
                   {
+                  "id": "1",
                   "name":"Gray's Anatomy for Students",
                   "description": "Pearson Education, 2019",
                   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-F7N-uwSCy-Dv9YHPPk6fJhyXK3vY90haMyQnvn1FIAUTAAlS",
                   "x-image": "https://books.google.com/books/about/Gray_s_Anatomy_for_Students.html?id=PRWSzwEACAAJ&source=kp_cover"
                   "price": "₦11,500",
-                  "type": "used"
+                  "condition": "used"
                   "category" : "book"
                   },
                  {
+                  "id": "2",
                   "name": "LG LED Smart TV ",
                   "description": "43 inch LM6300 Series Full HD HDR Smart LED TV",
                   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebWwG8KTx6u2tdKCFbEPLBbVln3uN3WI4SCDi4fxn_g&s",
                   "price": "₦57,000.00 NGN",
-                  "type": "used",
+                  "condition": "used",
                   "category" : "electronics",
                   },
                   {
+                  "id": "3",
                   "name":"Standing Fan",
                   "description": "Durable and quality BB Standing fan, perfect for your bedroom.",
                   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UzFTnx0ssocClEQ8ciX-qiYdTUwTP-nT3q_Z84A&s",
                   "price": "₦7,000.00 NGN",
-                  "type": "used",
+                  "condition": "used",
                   "category" : "electronics",
                   },
             }   
@@ -124,28 +133,31 @@
           "email": "john@gmail.com"},
           "product":{ 
                   {
+                  "id": "1",
                   "name":"Gray's Anatomy for Students",
                   "description": "Pearson Education, 2019",
                   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-F7N-uwSCy-Dv9YHPPk6fJhyXK3vY90haMyQnvn1FIAUTAAlS",
                   "x-image": "https://books.google.com/books/about/Gray_s_Anatomy_for_Students.html?id=PRWSzwEACAAJ&source=kp_cover"
                   "price": "₦3,000.00 NGN",
-                  "type": "used"
+                  "condition": "used"
                   "category" : "book"
                   },
                   {
+                  "id": "2",
                   "name": "LG LED Smart TV ",
                   "description": "43 inch LM6300 Series Full HD HDR Smart LED TV",
                   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebWwG8KTx6u2tdKCFbEPLBbVln3uN3WI4SCDi4fxn_g&s",
                   "price": "₦57,000.00 NGN",
-                  "type": "used",
+                  "condition": "used",
                   "category" : "electronics",
                   },                   
                   {
+                  "id": "3",
                   "name":"Standing Fan",
                   "description": "Durable and quality BB Standing fan, perfect for your bedroom.",
                   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UzFTnx0ssocClEQ8ciX-qiYdTUwTP-nT3q_Z84A&s",
                   "price": "₦7,000.00 NGN",
-                  "type": "used",
+                  "condition": "used",
                   "category" : "electronics",
                   },
             }   
@@ -161,27 +173,30 @@
           "email": "john@gmail.com"},
           "product":{ 
                    {
+                  "id": "1",
                   "name": "LG LED Smart TV ",
                   "description": "43 inch LM6300 Series Full HD HDR Smart LED TV",
                   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSebWwG8KTx6u2tdKCFbEPLBbVln3uN3WI4SCDi4fxn_g&s",
                   "price": "₦57,000.00 NGN",
-                  "type": "used",
+                  "condition": "used",
                   "category" : "electronics",
                   },
                   {
+                  "id": "2",
                   "name":"Standing Fan",
                   "description": "Durable and quality BB Standing fan, perfect for your bedroom.",
                   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UzFTnx0ssocClEQ8ciX-qiYdTUwTP-nT3q_Z84A&s",
                   "price": "₦7,000.00 NGN",
-                  "type": "used",
+                  "condition": "used",
                   "category" : "electronics",
                   },
                   {
+                  "id": "3",
                   "name":"Standing Fan",
                   "description": "Durable and quality BB Standing fan, perfect for your bedroom.",
                   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UzFTnx0ssocClEQ8ciX-qiYdTUwTP-nT3q_Z84A&s",
                   "price": "₦7,000.00 NGN",
-                  "type": "used",
+                  "condition": "used",
                   "category" : "electronics",
                   },
                 }   
@@ -197,28 +212,31 @@
           "email": "john@gmail.com"},
           "product":{ 
                   {
+                  "id": "1",
                   "name":"Standing Fan",
                   "description": "Durable and quality BB Standing fan, perfect for your bedroom.",
                   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UzFTnx0ssocClEQ8ciX-qiYdTUwTP-nT3q_Z84A&s",
                   "price": "₦7,000.00 NGN",
-                  "type": "used",
+                  "condition": "used",
                   "category" : "electronics",
                   },
                   {
+                  "id": "2",
                   "name":"LG LED Smart TV",
                   "description": "tech specs for the LG LED Smart TV 43 inch LM6300 Series Full HD HDR ..",
                   "image": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/39/4447531/1.jpg?8888",
                   "price": "₦25000.00",
-                  "type": "new",
+                  "condition": "new",
                   "category" : "electronics"
                   },
                   {
+                  "id": "3",
                   "name":"Human Anatomy & Physiology",
                   "description": "Pearson Education, 2019",
                   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkGHkp9bU0HiB0jcidNLewQnjyuH6CWynbLkdy8QobCYfmR9VK",
                   "x-image": "https://books.google.com.ng/books/about/Human_Anatomy_Physiology.html?id=6MrdswEACAAJ&source=kp_cover"
                   "price": "₦4000.00",
-                  "type": "new",
+                  "condition": "new",
                   "category" : "book",
                   },
                 }   
@@ -234,28 +252,31 @@
           "email": "john@gmail.com"},
           "product":{ 
                   {
+                  "id": "1",
                   "name":"Gray's Anatomy for Students",
                   "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-F7N-uwSCy-Dv9YHPPk6fJhyXK3vY90haMyQnvn1FIAUTAAlS",
                   "x-image": "https://books.google.com/books/about/Gray_s_Anatomy_for_Students.html?id=PRWSzwEACAAJ&source=kp_cover"
                   "price": "₦2,500",
-                  "type": "used"
+                  "condition": "used"
                   "category" : "book"
                   },
                   {
+                  "id": "2",
                   "name":"LG 1.5Hp Inverter Air Conditioner",
                   "description": "Advanced heat exchanger, air outlet, compressor, and inverter technology provides the world's highest energy efficiency.",
                   "image": "https://www-konga-com-res.cloudinary.com/w_700,f_auto,fl_lossy,dpr_1.0,q_auto/media/catalog/product/X/L/198132_1658234580.jpg",
                   "price": "₦295,000",
-                  "type": "new",
+                  "condition": "new",
                   "category" : "electronics"
                   },
-                     {
+                  {
+                  "id": "3",
                   "name":"Human Anatomy & Physiology",
                   "description": "Pearson Education, 2019",
                   "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkGHkp9bU0HiB0jcidNLewQnjyuH6CWynbLkdy8QobCYfmR9VK",
                   "x-image": "https://books.google.com.ng/books/about/Human_Anatomy_Physiology.html?id=6MrdswEACAAJ&source=kp_cover"
                   "price": "₦2,500",
-                  "type": "new",
+                  "condition": "new",
                   "category" : "book",
                   },
             }   
